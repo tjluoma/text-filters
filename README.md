@@ -1,7 +1,7 @@
 text-filters
 ============
 
-Text Filters designed to be used with [BBEdit]
+Text Filters designed to be used with [BBEdit].
 
 [BBEdit]: http://www.barebones.com/products/bbedit/
 
